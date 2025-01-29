@@ -13,7 +13,7 @@ Hi, my name is Hotaa404
 - cd Scanner-Tools
 - python3 Scanner.py
 
-![](https://github.com/hotaa404/hotaa/blob/output/github-snake.svg)
+![](https://github.com/hotaa404/hotaa/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hotaa404&icon=7&color=12)](https://visitcount.itsvg.in)
