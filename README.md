@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hi, my name is Hotaa404
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hotaa404) 
 
@@ -12,7 +8,7 @@ Hi, my name is Hotaa404
 - git clone https://github.com/hotaa404/Scanner-Tools
 - cd Scanner-Tools
 - python3 Scanner.py
-
+![](https://h.top4top.io/p_3316hq6zw0.png)
 ![](https://github.com/hotaa404/hotaa/blob/output/github-snake-dark.svg)
 
 ---
